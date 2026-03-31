@@ -1,0 +1,25 @@
+The Do’s (Best Practices)
+
+    Enable Privacy Settings: Regularly audit and restrict your profile visibility on personal platforms like Instagram to "Friends Only."
+
+    Use Professional Headshots: Maintain a clear, high-quality, and professional profile picture on LinkedIn and GitHub to build credibility.
+
+    Two-Factor Authentication (2FA): Always enable 2FA using an authenticator app (like Google Authenticator) for all social and academic accounts.
+
+    Fact-Check Before Sharing: Verify the source and authenticity of news or technical articles before reposting to prevent the spread of misinformation.
+
+    Audit App Permissions: Periodically check which third-party applications have access to your social media data and revoke unnecessary permissions.
+
+
+
+ The Don’ts (Risks to Avoid)
+
+    Avoid Oversharing: Never post sensitive personal details such as your hostel room number, phone number, or Aadhaar details on public forums.
+
+    Don't Engage in Cyberbullying: Refrain from participating in heated online arguments, trolling, or any form of digital harassment.
+
+    Avoid Suspicious Links: Never click on shortened links sent via Direct Messages (DMs), as these are often used in phishing and session-hijacking attacks.
+
+    Don't Post Unprofessional Content: Avoid sharing content that reflects poorly on your character or VIT Bhopal University, as recruiters often conduct social media background checks.
+
+    Don't Use Public Wi-Fi for Sensitive Tasks: Avoid logging into your bank or university portal over unprotected public Wi-Fi networks without a VPN.

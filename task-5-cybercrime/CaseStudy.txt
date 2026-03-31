@@ -1,0 +1,7 @@
+Case Study: The "Know Your Customer" (KYC) Phishing Scam
+
+In this scenario, a victim receives an urgent SMS claiming their bank account will be suspended unless they update their KYC details via a provided link. The link leads to a sophisticated "clone" of a legitimate banking portal. Once the victim enters their credentials and OTP, the attackers gain full access to the account, leading to an unauthorized transfer of ₹50,000.
+
+This case highlights a classic "Phishing" and "Identity Theft" attack. From a legal perspective in India, this falls under several sections of the Information Technology Act, 2000. Specifically, Section 66C addresses punishment for identity theft, while Section 66D covers punishment for cheating by personation using computer resources.
+
+The impact on the victim is not just financial but also psychological, as personal data is compromised. To prevent this, the "Digital Divide" must be addressed through better digital literacy; victims often lack the technical awareness to inspect URL domains or recognize that banks never ask for OTPs via SMS links. As a CSDF student, I believe that combining robust legal frameworks with grassroots digital education is the only way to mitigate such social engineering attacks in an increasingly connected India.
